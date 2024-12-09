@@ -26,7 +26,7 @@ requirement: [pyNationstates](https://github.com/DolphDev/pynationstates), insta
     pip install nationstates
     
 1. download main.py and puppet.csv
-2. fill puppet.csv with your puppets
+2. fill puppet.csv with your puppets (im like 60% sure you dont *have* to use underscores instead of spaces but eh)
 3. enter your nation name in main.py
 4. run main.py (`py main.py` in the terminal)
 5. copy the output in the terminal
