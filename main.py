@@ -17,7 +17,7 @@ if mode.lower() == "csv":
 		for row in csv_reader:
 			nation = api.nation(row[0])
 			output_csv.write(f"{row[0]},{nation.dbid}\n")
-		print("output is in output.csv")
+		print("finished! output is in output.csv")
 
 else:
 	print("writing to text file")
@@ -27,4 +27,4 @@ else:
 		for row in csv_reader:
 			nation = api.nation(row[0])
 			output_txt.write(f"{nation.dbid}\n")
-		print("output is in output.txt, go to https://ducky4life.pages.dev/cardfinder/ to generate the card links!")
+		print("finished! output is in output.txt, paste the output in https://ducky4life.pages.dev/cardfinder/ to generate the card links!")
