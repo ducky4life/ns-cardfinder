@@ -32,7 +32,7 @@ pip install nationstates
 # Usage
 
 1. download main.py and puppet.csv
-2. fill puppet.csv with your puppets (im like 60% sure you dont *have* to use underscores instead of spaces but eh)
+2. fill puppet.csv with your puppets
 3. enter your nation name in main.py
 4. run main.py (`py main.py` in the terminal)
 5. choose if you would like to get the id in a text file (press enter), or a csv file in `nation,id` format
