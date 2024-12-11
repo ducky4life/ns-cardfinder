@@ -23,7 +23,7 @@ csv input works with any input as long as the first item is the nation name, i.e
 
 # Installation
 
-requirement: [pyNationstates](https://github.com/DolphDev/pynationstates), install by using pip
+requirement: [pyNationstates](https://github.com/DolphDev/pynationstates), install by using [pip](https://pip.pypa.io/en/stable/installation/)
 
 ```
 pip install nationstates
