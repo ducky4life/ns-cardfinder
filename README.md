@@ -31,7 +31,7 @@ requirement: [pyNationstates](https://github.com/DolphDev/pynationstates), insta
 pip install nationstates
 ```
 
-clone the repository: (or [download the repository](https://github.com/ducky4life/ns-cardfinder/archive/refs/heads/main.zip))
+clone the repository (or [download the repository](https://github.com/ducky4life/ns-cardfinder/archive/refs/heads/main.zip)):
 ```
 git clone https://github.com/ducky4life/ns-cardfinder.git
 ```
