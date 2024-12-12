@@ -29,9 +29,14 @@ requirement: [pyNationstates](https://github.com/DolphDev/pynationstates), insta
 pip install nationstates
 ```
 
+clone the repository: (or [download the repository](https://github.com/ducky4life/ns-cardfinder/archive/refs/heads/main.zip))
+```
+git clone https://github.com/ducky4life/ns-cardfinder.git
+```
+
 # Usage
 
-1. download [main.py](https://github.com/ducky4life/ns-cardfinder/blob/main/main.py) and [puppet.csv](https://github.com/ducky4life/ns-cardfinder/blob/main/puppet.csv) (or: [download the repository](https://github.com/ducky4life/ns-cardfinder/archive/refs/heads/main.zip))
+1. download [main.py](https://github.com/ducky4life/ns-cardfinder/blob/main/main.py) and [puppet.csv](https://github.com/ducky4life/ns-cardfinder/blob/main/puppet.csv)
 2. fill puppet.csv with your puppets
 3. enter your nation name in main.py
 4. run main.py (`py main.py` in the terminal)
