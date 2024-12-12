@@ -38,12 +38,11 @@ git clone https://github.com/ducky4life/ns-cardfinder.git
 
 # Usage
 
-1. download [main.py](https://github.com/ducky4life/ns-cardfinder/blob/main/main.py) and [puppet.csv](https://github.com/ducky4life/ns-cardfinder/blob/main/puppet.csv)
-2. fill puppet.csv with your puppets
-3. enter your nation name in main.py
-4. run main.py (`py main.py` in the terminal)
-5. choose if you would like to get the id in a text file (press enter), or a csv file in `nation,id` format (type csv)
-6. optionally paste the output in https://ducky4life.pages.dev/cardfinder/ and go through the generated links (or, if you want to host the site yourself: you can find the code [here](https://github.com/ducky4life/ducky4life.github.io/tree/main/cardfinder))
+1. fill puppet.csv with your puppets
+2. enter your nation name in main.py
+3. run main.py (`py main.py` in the terminal)
+4. choose if you would like to get the id in a text file (press enter), or a csv file in `nation,id` format (type csv)
+5. optionally paste the output in https://ducky4life.pages.dev/cardfinder/ and go through the generated links (or, if you want to host the site yourself: you can find the code [here](https://github.com/ducky4life/ducky4life.github.io/tree/main/cardfinder))
 
 ## Having problems/have new ideas?
 
