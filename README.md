@@ -1,8 +1,8 @@
 # ns-cardfinder
 
-finds the cards of your puppets
+finds the cards of nations by nation names
 
-python script gets the dbid of your puppets, head to https://ducky4life.pages.dev/cardfinder/ to generate a list of links to your puppets' cards
+python script gets the dbid of the nations, head to https://ducky4life.pages.dev/cardfinder/ to generate a list of links to the cards
 
 csv input works with any input as long as the first item is the nation name, i.e. your `nation,password` list should work and the script will only parse the nation part.
 
@@ -23,7 +23,7 @@ git clone https://github.com/ducky4life/ns-cardfinder.git
 
 # Usage
 
-1. fill puppet.csv with your puppets
+1. fill puppet.csv with the nations
 2. enter your nation name in main.py
 3. run main.py (`py main.py` in the terminal)
 4. choose if you would like to get the id in a text file (press enter), or a csv file in `nation,id` format (type csv)
